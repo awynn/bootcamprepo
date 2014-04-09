@@ -1,0 +1,8 @@
+for file in naturalsequence{a..d}.txt; do cat sample2.txt >file; done
+nuralsequence1.txt
+cat naturalsequencea.txt
+cat sample2.txt
+
+
+
+
